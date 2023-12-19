@@ -7,7 +7,7 @@
 .Janna{
     width: 100%;
     min-height: 100vh;
-    background-image: url('pinkback.jpg');
+    background-color: pink;
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
@@ -96,7 +96,7 @@ nav ul li{
 .About-Me {
     width: 100%;
     min-height: 100vh;
-    background-image: url('pinkback.jpg');
+    background-color: pink;
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
